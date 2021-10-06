@@ -1,0 +1,169 @@
+{
+  "Armblade": {
+      "description": "An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. To attune to this item, you must hold it against your forearm for the entire attunement period.\n\nAs a bonus action, you can retract the armblade into your forearm or extend it from there. While it is extended, you can use the weapon as if you were holding it, and you can't use that hand for other purposes.",
+      "rarity": "Common",
+      "effect": ["Requirement", "Bonus Action, Retract or Extend Armblade"],
+      "requirement": "Race, Warforged",
+      "type": "Weapon",
+      "attunement": "true"
+    },
+  "Armor of Gleaming": {
+      "description": "This armor never gets dirty.",
+      "rarity": "Common",
+      "effect": "Active",
+      "type": "Armor",
+      "attunement": "false"
+    },
+  "Bead of Nourishment": {
+      "description": "This spongy, flavorless, gelatinous bead dissolves on your tongue and provides as much nourishment as 1 day of rations.",
+      "rarity": "Common",
+      "effect": "Active",
+      "type": "Wondrous",
+      "attunement": "false"
+    },
+  "Bead of Refreshment": {
+      "description": "This spongy, flavorless, gelatinous bead dissolves in liquid, transforming up to a pint of the liquid into fresh, cold drinking water. The bead has no effect on magical liquids or harmful substances such as poison",
+      "rarity": "Common",
+      "effect": "Active",
+      "type": "Wondrous",
+      "attunement": "false"
+    },
+  "Boots of False Tracks": {
+      "description": "Only humanoids can wear these boots. While wearing the boots, you can choose to have them leave tracks like those of another kind of humanoid of your size.",
+      "rarity": "Common",
+      "effect": ["Active", "Boots"],
+      "type": "Wondrous",
+      "attunement": "false"
+    },
+  "Breathing Bubble": {
+      "description": "This translucent, bubble-like sphere has a slightly tacky outer surface, and you gain the item's benefits only while wearing it over your head like a helmet.\n\nThe bubble contains 1 hour of breathable air. The bubble regains all its expended air daily at dawn.",
+      "rarity": "Common",
+      "effect": ["Helmet", "Charges"],
+      "uses": "1, Dawn",
+      "type": "Wondrous",
+      "attunement": "false"
+    },
+  "Candle of the Deep": {
+      "description": "The flame of this candle is not extinguished when immersed in water. It gives off light and heat like a normal candle.",
+      "rarity": "Common",
+      "effect": "Active",
+      "type": "Wondrous",
+      "attunement": "false"
+    },
+  "Cast Off Armor": {
+      "description": "You can doff this armor as an action.",
+      "rarity": "Common",
+      "effect": "Action, doff the armor",
+      "type": "Armor",
+      "attunement": "false"
+    },
+  "Charlatan's Die": {
+      "description": "Whenever you roll this six-sided die, you can control which number it rolls.",
+      "rarity": "Common",
+      "effect": "Active",
+      "type": "Wondrous",
+      "attunement": "true"
+    },
+  "Cleansing Stone": {
+      "description": "A cleansing stone is a sphere 1 foot in diameter, engraved with mystic sigils. When touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person.",
+      "rarity": "Common",
+      "effect": "Action, Clean Garments",
+      "type": "Wondrous",
+      "attunement": "false"
+    },
+  "Cloak of Billowing": {
+      "description": "While wearing this cloak, you can use a bonus action to make it billow dramatically.",
+      "rarity": "Common",
+      "effect": ["Cloak", "Bonus Action, Billow Dramatically"],
+      "type": "Wondrous",
+      "attunement": "false"
+    },
+  "Cloak of Many Fashions": {
+      "description": "While wearing this cloak, you can use a bonus action to change the style, color, and apparent quality of the garment. The cloak's weight doesn't change. Regardless of its appearance, the cloak can't be anything but a cloak. Although it can duplicate the appearance of other magic cloaks, it doesn't gain their magical properties.",
+      "rarity": "Common",
+      "effect": ["Cloak", "Bonus Action, Change Cloak's Appearance"],
+      "type": "Wondrous",
+      "attunement": "false"
+    },
+  "Clockwork Amulet": {
+      "description": "This copper amulet contains tiny interlocking gears and is powered by magic from Mechanus, a plane of clockwork predictability. A creature that puts an ear to the amulet can hear faint ticking and whirring noises coming from within.\n\nWhen you make an attack roll while wearing the amulet, you can forgo rolling the d20 to get a 10 on the die. Once used, this property can't be used again until the next dawn.",
+      "rarity": "Common",
+      "effect": "Amulet",
+      "type": "Wondrous",
+      "attunement": "false"
+    },
+  "Clothes of Mending": {
+      "description": "This elegant outfit of traveler's clothes magically mends itself to counteract daily wear and tear. Pieces of the outfit that are destroyed can't be repaired in this way.",
+      "rarity": "Common",
+      "effect": "Clothes",
+      "type": "Wondrous",
+      "attunement": "false"
+    },
+  "Coin of Delving": {
+      "description": "This scintillating copper coin sheds dim light in a 5-foot radius. If dropped a distance greater than 5 feet, the coin issues a melodious ringing sound when it hits a surface. Any creature that can hear the chime can determine the distance the coin dropped based on the tone.",
+      "rarity": "Common",
+      "effect": "Active",
+      "type": "Wondrous",
+      "attunement": "false"
+    },
+  "Dark Shard Amulet": {
+      "description": "This amulet is fashioned from a single shard of resilient extraplanar material originating from the realm of your warlock patron. While you are wearing it, you gain the following benefits:\n\nYou can use the amulet as a spellcasting focus for your warlock spells.\nYou can try to cast a cantrip that you don't know. The cantrip must be on the Warlock spell list, and you must make a DC 10 Intelligence (Arcana) check. If the check succeeds, you cast the spell. If the check fails, so does the spell, and the action used to cast the spell is wasted. In either case, you can't use this property again until you finish a long rest.",
+      "rarity": "Common",
+      "effect": ["Amulet", "Requirement", "Spells"],
+      "requirement": "Class, Warlock",
+      "spells": ["Warlock, 0"],
+      "type": "Wondrous",
+      "attunement": "true"
+    },
+  "": {
+      "description": "",
+      "rarity": "Common",
+      "effect": "",
+      "type": "",
+      "attunement": ""
+    },
+  "": {
+      "description": "",
+      "rarity": "Common",
+      "effect": "",
+      "type": "",
+      "attunement": ""
+    },
+  "": {
+      "description": "",
+      "rarity": "Common",
+      "effect": "",
+      "type": "",
+      "attunement": ""
+    },
+  "": {
+      "description": "",
+      "rarity": "Common",
+      "effect": "",
+      "type": "",
+      "attunement": ""
+    },
+  "": {
+      "description": "",
+      "rarity": "Common",
+      "effect": "",
+      "type": "",
+      "attunement": ""
+    }
+}
+
+
+"": {
+      "description": "",
+      "rarity": "Common",
+      "effect": "",
+      "type": "",
+      "attunement": ""
+    }
+
+
+Weapon Type - these are upgrades to a basic weapon so how do I tie it to a weapon?
+  PROBABLY SAME WITH ARMOR
+
+
+clockwork amulet - forgo roll for 10 on die (Roll button?)

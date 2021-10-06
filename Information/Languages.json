@@ -1,0 +1,68 @@
+{
+  "Abyssal": {
+    "description": "Commonly Spoken By Demons"
+  },
+  "Aquan": {
+    "description": "Commonly Spoken By Water Based Creatures"
+  },
+  "Auran": {
+    "description": "Commonly Spoken By Air Based Creatures"
+  },
+  "Celestial": {
+    "description": "Commonly Spoken By Celestials"
+  },
+  "Common": {
+    "description": "Commonly Spoken By Humans, Halflings, Hal-elves, Half-orcs"
+  },
+  "Deep Speech": {
+    "description": "Commonly Spoken By Mind Flayers, Beholders"
+  },
+  "Draconic": {
+    "description": "Commonly Spoken By Kobolds, Lizardfolk, Dragons, Dragonborn"
+  },
+  "Druidic": {
+    "description": "Commonly Spoken By Druids"
+  },
+  "Dwarvish": {
+    "description": "Commonly Spoken By Dwarves"
+  },
+  "Elvish": {
+    "description": "Commonly Spoken By Elves"
+  },
+  "Giant": {
+    "description": "Commonly Spoken By Giants, Ogres"
+  },
+  "Gnomish": {
+    "description": "Commonly Spoken By Gnomes"
+  },
+  "Goblin": {
+    "description": "Commonly Spoken By Goblinoids, Hobgoblins, Bugbears"
+  },
+  "Gnoll": {
+    "description": "Commonly Spoken By Gnolls"
+  },
+  "Halfling": {
+    "description": "Commonly Spoken By Halflings"
+  },
+  "Ignan": {
+    "description": "Commonly Spoken By Fire Based Creatures"
+  },
+  "Infernal": {
+    "description": "Commonly Spoken By Devils, Tieflings"
+  },
+  "Orc": {
+    "description": "Commonly Spoken By Orcs"
+  },
+  "Primordial": {
+    "description": "Commonly Spoken By Elementals"
+  },
+  "Sylvan": {
+    "description": "Commonly Spoken By Fey"
+  },
+  "Terran": {
+    "description": "Commonly Spoken By Earth Based Creatures"
+  },
+  "Undercommon": {
+    "description": "Commonly Spoken By Drow, Underdark Traders
+  }
+}
